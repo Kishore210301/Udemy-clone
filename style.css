@@ -15,6 +15,7 @@ body{
     padding: 15px 30px;
     border-bottom: solid #ddd 1px;
     background-color: white;
+    position: sticky;
 }
 .navbar__title__udemy{
     color: #A435F0;
